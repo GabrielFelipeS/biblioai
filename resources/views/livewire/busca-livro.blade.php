@@ -4,7 +4,7 @@
     </h5>
     <div class="d-flex justify-content-center mb-2">
         <div class="col-8">
-            <input class="form-control" type="text" wire:model="termoBusca" placeholder="Digite o nome do livro">
+            <input class="form-control" type="text" wire:model="termoBusca" placeholder="Digite o que está buscando em um livro">
         </div>
         <button type="submit" class="btn btn-primary">Buscar</button>
     </div>
